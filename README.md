@@ -1,16 +1,89 @@
-## Hi there 👋
+# Hi, I'm Muqadas Khan 👋
 
-<!--
-**muqadas65314/muqadas65314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
 
-Here are some ideas to get you started:
+I'm a BS Software Engineering student with a strong interest in Software Development, Designing, and Problem Solving. I enjoy building practical projects, learning new technologies, and improving my development skills through hands-on experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+- C++
+- Java (Object-Oriented Programming)
+- SQL
+
+### Software Engineering
+- Data Structures & Algorithms (DSA)
+- Object-Oriented Programming (OOP)
+- UML Diagrams
+- Software Requirements Specification (SRS)
+- Wireframing
+
+### Tools & Technologies
+- Git & GitHub
+- Dev C++
+- Netbeans IDE
+- balsamiq
+- Figma
+- Canva
+- Draw.io
+- Arduino Uno
+
+### Strengths
+- Coding
+- UI 
+- Problem Solving
+- Debugging & Error Fixing
+- Team Collaboration
+- Fast Learner
+
+---
+
+## 📂 Projects
+
+### 🖥️ Student Management System (C++)
+Console-based application for managing student records.
+
+### 🍽️ Java Bites Dinner – Restaurant Management System (Java OOP)
+Restaurant management system developed using Object-Oriented Programming concepts.
+
+### 💡 Automatic Stair Light System
+Arduino-based motion detection system for automatic stair lighting.
+
+### 🏨 Hotel Guest Management System (C++ / DSA)
+Hotel management system featuring guest records, bookings, food orders, and facility management using Data Structures.
+
+### 📑 UML Diagrams & Technical Documentation
+Created complete UML diagrams and technical documentation for the Hotel Guest Management System.
+
+### 🐾 PetCare (Database Management System)
+Database project for managing veterinary appointments and pet care services.
+
+### 🧠 MindGuard – AI Study Burnout Detector
+Designed UI screens, wireframes, and interactive prototypes in Figma for an AI-based student wellness application.
+
+### 📘 Software Requirement Specification (SRS)
+Prepared a complete Software Requirements Specification document including functional and non-functional requirements.
+
+---
+
+## 📚 Currently Learning
+
+- Software Engineering
+
+---
+
+## 🎯 Career Goal
+
+I'm actively looking for Software Engineering internships where I can contribute, learn modern development practices, and build AI-powered software solutions.
+
+---
+
+## 📫 Contact
+
+- Email: muqadaskhanniazi3450@gmail.com
+- GitHub: https://github.com/muqadas65314
+- 
+
+⭐ Thank you for visiting my profile!
